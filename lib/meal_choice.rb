@@ -1,3 +1,1 @@
-def meal_choice (peas,okra,meat)
-  puts "What a nutritious meal!"
-  puts ""
+def meal_choice (veg1,veg2)
